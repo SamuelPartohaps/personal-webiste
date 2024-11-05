@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    color: #007bff;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
